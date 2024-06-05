@@ -1,0 +1,22 @@
+.poster_main_div{
+    width: 99.7%;
+    height: 80vh;
+    display: grid;
+    grid-template-columns: 50% 48%;
+    padding: 5px 0% 5px 0%;
+    background-color: rgba(0, 0, 0, 0.329);
+    border-radius: 4px;
+    border-right :4px solid rgb(12, 75, 134) ;
+    margin: 5px 0px 0px 0%;
+
+}
+.posterImage{
+    width: 60%;
+    padding-left: 30%;
+    filter: drop-shadow(.5em 0px 0px rgb(3, 37, 68));
+}
+
+.poster_description_div{
+    padding:19% 0% 10% 7%;
+    color:white;
+}
